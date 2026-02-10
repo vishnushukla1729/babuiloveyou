@@ -247,7 +247,7 @@ export default function Page() {
   useEffect(() => {
     if (yesPressed && noCount < 4 && !popupShown) {
       Swal.fire({
-        title: "I love you sooo Much!!!❤️, You’ve stolen my heart completely!!! 🥰💖 But itni pyaari ladki aur itni jaldi haan? Thoda aur nakhre karke mujhe tarpaao na! 🥰✨",
+        title: "I love you sooo Much Babu!!!❤️, You’ve stolen my heart completely!!! 🥰💖 🥰✨",
         showClass: {
           popup: `
             animate__animated
@@ -274,7 +274,7 @@ export default function Page() {
   useEffect(() => {
     if (yesPressed && noCount > 3 && !yespopupShown) {
       Swal.fire({
-        title: "I love you so much!! ❤️ You are my everything, my joy, my forever. Every moment with you is a memory I’ll cherish forever, and my heart beats only for you.</br> Will you be the love of my life forever?",
+        title: "I love you so much, Babu ❤️<br>You are my everything—my joy, my safe place, my forever. Every moment with you becomes a memory my heart will cherish forever, and my heart beats only for you.<br><br>Babu, will you be the love of my life forever?<br>Because in my heart, that answer is already written. Babu, we got this. Our love is stronger than anything that tries to shake us, and there is nothing in my life I want more than you.<br><br>Babu, our love is stronger. We will get over everything together. Every fight is a lesson, not a loss—we will learn from it, grow from it, and come back even closer than before.<br><br>No matter what comes our way, I choose you, every single time. I believe in us, in our journey, and in the forever we’re building side by side.<br><br>I love you so much, Babu ❤️",
         width: 800,
         padding: "2em",
         color: "#716add",
@@ -294,7 +294,7 @@ export default function Page() {
   useEffect(() => {
     if (noCount == 25) {
       Swal.fire({
-        title: "My love for you is endless, like the stars in the sky—shining for you every night, even if you don’t always notice. 🌟 I’ll wait patiently, proving every day that you’re my everything. ❤️ Please press ‘Yes’ and let’s make this a forever story. 🥰✨<br/>'True love never gives up; it grows stronger with time.'",
+        title: "My love for you is endless Babu, like the stars in the sky—shining for you every night, even if you don’t always notice. 🌟 I’ll wait patiently, proving every day that you’re my everything. ❤️ Please press ‘Yes’ and let’s make this a forever story. 🥰✨<br/>'True love never gives up; it grows stronger with time.'",
         width: 850,
         padding: "2em",
         color: "#716add",
