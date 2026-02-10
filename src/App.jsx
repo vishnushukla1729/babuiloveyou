@@ -401,7 +401,7 @@ const Footer = () => {
       <span role="img" aria-label="heart">
         ❤️
       </span>
-      {" "}by Ujjwal
+      {" "}by Vishnu Shukla for my Love of life Gieselle
     </a>
   );
 };
